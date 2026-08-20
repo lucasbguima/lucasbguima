@@ -1,13 +1,13 @@
 # Lucas Brandão Guimarães
 👋 Greetings! I'm Lucas, a Quality Assurance Engineer focused on automation architectures, continuous testing, and software quality strategy. 🧪🛠️
 
-![QA Engineer](https://shields.io)
-![ISTQB CTFL](https://shields.io)
-![Java](https://shields.io)
-![JavaScript](https://shields.io)
-![Selenium](https://shields.io)
-![Cypress](https://shields.io)
-![Playwright](https://shields.io)
+![QA Engineer](https://img.shields.io/badge/QA-Engineer-blue)
+![ISTQB CTFL](https://img.shields.io/badge/ISTQB-CTFL-4169E1?logo=istqb)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
 ---
 

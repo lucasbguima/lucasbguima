@@ -40,7 +40,7 @@
 ---
 
 ## 🌐 Connect with Me
-* **LinkedIn:** [://linkedin.com](https://linkedin.com)
+* **LinkedIn:** [linkedin.com/in/lucasbguima](https://www.linkedin.com/in/lucasbguima/)
 * **Email:** lucasbrandaoguimaraes@gmail.com
 
 Lucas Guimarães © Gama, DF – Brazil 🌍 🇧🇷
